@@ -2,7 +2,7 @@
 # Dart Score Prediction Project
 
 This repository contains two parts of a project focused on predicting dart scores using computer vision and machine learning techniques.
-The first step is to pull this directory onto your local PC.
+The first step is to pull this directory into your local PC.
 ## Installation
 
 To install the necessary dependencies, you can use the `Requirements.txt` file provided. First create a new environment using the command:
